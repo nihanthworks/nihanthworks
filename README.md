@@ -1,16 +1,16 @@
-## Hi there 👋
+## Nihanth Works
 
-<!--
-**nihanthworks/nihanthworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Website design, development and SEO for growing businesses in India.
 
-Here are some ideas to get you started:
+### What we do
+- Custom websites, WordPress and PHP CMS
+- Ecommerce stores with UPI, card and GST setup
+- SEO, social media management and content creation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ready-made products
+- [ePaper CMS for newspapers](https://nihanthworks.com/products/epaper-cms)
+- [Shop Inventory and Billing Software](https://nihanthworks.com/products/shop-inventory-software)
+- [Social Media Automation Software](https://nihanthworks.com/products/social-media-automation)
+
+### Contact
+[nihanthworks.com](https://nihanthworks.com) | contact@nihanthworks.com | +91 9966100229
